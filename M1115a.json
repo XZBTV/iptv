@@ -500,42 +500,42 @@
 
   "lives": [
     {
-      "group": "自定义",
+      "group": "🇭🇰测试",
       "channels": [
         {
-          "name": "安徽经视",
+          "name": "明珠台",
           "urls": [
-            "http://zbbf2.ahtv.cn/live/750.m3u8"
+            "https://cdn-cn.hkdtmb.com/hls/84/index.m3u8"
           ]
         },
         {
-          "name": "安徽综艺",
+          "name": "凤凰资讯",
           "urls": [
-            "http://zbbf2.ahtv.cn/live/758.m3u8"
+            "http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8"
           ]
         },
         {
-          "name": "安徽影视",
+          "name": "有线新闻",
           "urls": [
-            "http://zbbf2.ahtv.cn/live/756.m3u8"
+            "https://api.leonardpark.dev/live/icable/109"
           ]
         },
         {
-          "name": "安徽科教",
+          "name": "东森新闻",
           "urls": [
-            "http://zbbf2.ahtv.cn/live/754.m3u8"
+            "http://50.7.61.147:30080/Entry/etnews"
           ]
         },
         {
-          "name": "安徽公共",
+          "name": "天映经典",
           "urls": [
-            "http://zbbf2.ahtv.cn/live/752.m3u8"
+            "http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8"
           ]
         },
         {
-          "name": "安徽人物",
+          "name": "无线财经",
           "urls": [
-            "http://zbbf2.ahtv.cn/live/da9.m3u8"
+            "http://kkmix1.f3322.net:825/hls/ch2/s.m3u8"
           ]
         }
       ]
